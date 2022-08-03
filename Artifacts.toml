@@ -1,288 +1,288 @@
 [[SoapyPlutoSDR]]
 arch = "aarch64"
-git-tree-sha1 = "33d766ad80259476f57fa9a3a386f70f91e8f982"
+git-tree-sha1 = "2038f506726b93c13401bc1dc18dedbe46593022"
 os = "macos"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "c49825a069299a91690dd96a7ecef424f0562b47945dc9d04d205ed140193d77"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "7b58a786518547bcaa057170298ac8f968722facc0ba4b5759632342cb21dfdd"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.aarch64-apple-darwin.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ad76d036b9fe274f8e89fc07c7783289ffe4848b"
+git-tree-sha1 = "15e66407917f22c28970b1024b1c50747a9ba739"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "3e95fdb80fb4e7faa9b1d299cfaca12af1eb7314ffc622ef0439a716da09887c"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "3adbe75298c0e5a9c03ddbf3ef2bd0a385f357a33157d5ea4492856c75a0fed3"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "04bf207d02713a7d3e81c801b2def2f59c47a7d6"
+git-tree-sha1 = "a7f488215301ff0163a7be077442eaafd3e2c0eb"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "5114fdab5550d5a339a8258ec6bee1277a79970136b27c8648e09b6021a0c4d7"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "fa486a409440950b650c0017329121407c4c51a75d0a60f5f1c5d81079b6f6d3"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "65f86065dee4eeef55491056fd336cf42bb6ebe2"
+git-tree-sha1 = "596f247e884d4fa40b37f7e4ca707c3c82e2fe31"
 libc = "musl"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "582a50d312e1fd5e6485fd6dedc20f3083d3f17d561a5e71e1d46bf8e71f8929"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "c0fc3936bf77f06073722b9867ec2462f14bdea7da283cc357b1493b7e268dd9"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.aarch64-linux-musl-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "62a924f683a38420ebffc021a938f57507ae65cb"
+git-tree-sha1 = "4ef4520cbc48ebedde8160e0b0336a79f8f1a337"
 libc = "musl"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "6478ac8f2585d5d4abb4d554cf04c84fed4dd16ac34c0894cf1d24f78aba63ba"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "d5e56c47414c3fbe58ee2942cd8454da92210f32faabc1b418ff5c7bd14db732"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.aarch64-linux-musl-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "415899a4158cd382285a37e406e5ab6c59842407"
+git-tree-sha1 = "ac8597cdb817ee2d0cd26093cb6caefa5d3bcefa"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "e36c01922d3258acd001faa898bcb7ddcfc52d5bdd0fcf9258efc2e6f7bada25"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "5f22c6c98c713d9a6ebb58f3a00cf3924f71c77afd547daeea7d083f73316471"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "abffe50f6f6f8c166695a5a3d5dd73823809cbd7"
+git-tree-sha1 = "bc27969e4cc4da565372c86c5fd241d2f764def2"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "2a05b04ca18aabc7489f39dcdf0810caa56921dad063a11a341fba21a70300e1"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "bcf89d0589ca619126d14a290265587fdb5c03c74a48d84091c272b27d753023"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "45e9c28c095c12f6d8315fbb3cc3f6c86c5e8e05"
+git-tree-sha1 = "605bef694ab2c5f0b40b1a9b1ae53638759dd8a3"
 libc = "musl"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "fb556359c8ceed295c37bd1b84765d4f91365910bbf416bbbd7d85d9a8720992"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "a6633dfe6ebddda1d1c2911e7525e0bf22b5304cdf68378192dc07f123df6890"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9b4df2bda4443423f73802bffb713903bbce0e44"
+git-tree-sha1 = "a4f669e136096fd3249ecdf6c80b6e0125a181cc"
 libc = "musl"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "6fc5be7915ae8b7be5b20c5258aa8532f1169dfb5612a44d58b0c5d754b4592a"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "102e70b1a2fc59307d602ed4fccf036f6ff65ca9c14179ba8f0476561161f6fc"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "72218a0fc818d31ec4de92f8d33799a2db6e9608"
+git-tree-sha1 = "2bd93cdf9f8d8957defa3c8dbb78834144b57a2d"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "bbbb50a59a1ec616f9ed18e5f9f8e63e34dcae074ac6ed985cfca20c00b22aea"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "b367bfb47344edac16729924c6486b684b7fabe1ae3a85f1feacd7f0a8fd9e87"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "05573748f370c76826b75df75732bc51e77ff978"
+git-tree-sha1 = "4592c4be00ac109592c727ad9d185bf26077f8cf"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "889eb73ea8e17c3814797292d5057904d029bf3c7cf76290dfdf6febb0064f77"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "bc87f3f00c49d0b5611a02badd875689272350676ab4561414b4275a4c1699b3"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8b32ad1582196983b7df21650a64267a184b300a"
+git-tree-sha1 = "1e5d5bd3e7fd907b79be71f86ce83eb4380f4c9c"
 libc = "musl"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "b6a3333c396ca69c9ead14842fd2332277b29d99864760d297695d3a880fc07d"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "423f143b5226bf75e79e68d54e11d8bc9612b9c57c79929674994a8c0909f188"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f3d353552b70aaac0db9c4fe53b79abc6f911e82"
+git-tree-sha1 = "f427bef9798ff3cf3e047e978be16982e7121a7b"
 libc = "musl"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "eeeff63cbc194fd3c381cdaaba8066655a22b454c2d1f62defbe8587e66e22fc"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "90948d23c66c23ac2ffe1c44a17f4ad342ac28558efaef1c4f315b9eb9bfb710"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "557361c15c3329318c37a924f851b54c6bdaa853"
+git-tree-sha1 = "a67be9f91ce42144e37eb9fcd7e7921dddd71e43"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "5fa4857e1690935a3df928e113e98d3816a8a8f93cd4309b724aea6b0f719bc1"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "79c04a61e81361dd3dd2850e300f75b568e2e530feed00bd5438afb0341f0dfc"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.i686-linux-gnu-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "596ef7cb436faab809c030fa8c827ded8527e523"
+git-tree-sha1 = "8b1adf6957ce48c13d8bdf51ccffb367147db215"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "8a16e86f76b6c6251e1fe698e12b4033c759ae55957d1dfd9f711b45a350e178"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "7f408aac36b995091eba3fa1066f4a013348ca797b6fbb07ab9dc0542d053fad"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.i686-linux-gnu-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7e0aa162f087474478248026f561d7b4775cc3f1"
+git-tree-sha1 = "4bd50a39add69c9ddbe6e9dd17af5a8e98399079"
 libc = "musl"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "f0670addb1b1b5b15a7e5caa56dcbbbddfeb05121c1d55f8c364e379ea89d64b"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "eb7c86b7afb49f7219750fed23981bc1742f3b6ce94bd68321fd10e9e06a774e"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.i686-linux-musl-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c15fc7ee143e5e238f6cab872535fe8a80fabce"
+git-tree-sha1 = "c524d8e6e3916b806f4d6ea7e92ce8bcc5f087e5"
 libc = "musl"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "a01e642119278289f73668e5f0eec216e62eee41d05ca189e7f901bfe069c195"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "1f6e413fdbcada388071ab8c583b6a5419a182defe0a2d8aa58660ee0be5d46a"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.i686-linux-musl-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ea4b49903e49027982fa02e5c6a778e0a6f5192e"
+git-tree-sha1 = "435a8c221cd0042444609655eba679d168975aaa"
 os = "windows"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "1fd216d37f1b5bf4f5f44e63894a532b82d5d1fa582c893814bc48a66460c292"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "157a14ba04c815c3365333da278a5e82e964a102bb44ee26994874a90754e25d"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.i686-w64-mingw32-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "199d399c94007091d2fb45e4e74fb17fa9b6dbd7"
+git-tree-sha1 = "ab3cd0db931f74a62ebb148f52933cf4ab6897d1"
 os = "windows"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "7f3200a7887e63999962a9a44b9892910500bd14a49bad3552519423ea7c07d1"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b24b3203468decdfb9f77c192b915c728b5390a850303ca4a34df0d90322525a"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.i686-w64-mingw32-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "92a3636633c44711d3cfbc778e215be4d9ddc856"
+git-tree-sha1 = "18a06ee79914ab1f97003f77424bfd0b452c2723"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "b798048ae4b0941f8f898fae21e67c36193321db21aeaa76a61a8880a6e04f40"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "72ecb7dd7f28656b58389330604a9beffbd65378899b697c5d30e591961f7d39"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0395c88a9bcbeb2c494c4cc581ecad858575ade5"
+git-tree-sha1 = "08047cd1b396a521e3264e7bce1284a8f959dc20"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "bd1e6daecfa5f762aeea40eb8ecb8f06bb7d19a00f2152640c950c3b1f01695e"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "16043a68e6f905b427f8b836c4146f6666bcba911071c9b223d483169e438d13"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "x86_64"
-git-tree-sha1 = "b57cc6aad1a44790c54e5f400c0abdcabc22d23b"
+git-tree-sha1 = "2962ccd978a4156b8b16dbbeaaa38fee19b7a49c"
 os = "macos"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "df2a116fd413275c2110beb2b52d0929e5ca97263c854c8f9168f3e26b810d31"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "da9592d9462707eaae3fe1c97f0907be90e4dcb9082f71e7fe5ab670f0f66e72"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.x86_64-apple-darwin.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d46b6cfef643c977ab7937e1f9a026b97d571223"
+git-tree-sha1 = "72581ab2560d457681c05d54c36a9251b2719931"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "92828efc4a8d97e7dcf4da5d04014a7dd57f1543982f426bdfb5422b8f110651"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "257962987348a405835384126c16e2a75089ae20168851adb3f15f184ebcb64b"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5836ffd27e05350108dd14fde70ede3a56815cd6"
+git-tree-sha1 = "d2e6c28722ebdb6aa70e6f99b68a2b3adf4efa7f"
 libc = "glibc"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "4b4bc5eaf0a55a4b3ed1fda280e8c370443e56807f3415570cc6281da7fff1a9"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "c6b06aa1fe0865010da1eddb0c1d9474f401be32500d903584e4376dad4c0d8e"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "df1c130fac811368faa333974308669aad4ec82d"
+git-tree-sha1 = "46af02088b5ba393c6323cbd5ac4ba5e0afbb68a"
 libc = "musl"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "a60008e36e48559f47782aefa622c6ab26365867d21cbb81b89c9cefe52fe95b"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "8a77ebf52dc6fcf8989a5b3db1853a2a0b3bdc19795e5c6e24ed9bebfc91780c"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.x86_64-linux-musl-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d98b2d7eb72fcb622b4786d537e774b36a0d36bc"
+git-tree-sha1 = "1a5256958b001f915e8907af69564d26516262ac"
 libc = "musl"
 os = "linux"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "a487285ba30039223f7bf8dc9eae317bce261d7140dc71f69f950cc02275d652"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "c9fefe398ae2103c38ba03b2fa1795afd186302517690698e5975098b45ab79d"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.x86_64-linux-musl-cxx11.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "x86_64"
-git-tree-sha1 = "3a2895991597d967e59a6c13968b61a679d1dd15"
+git-tree-sha1 = "435a9762c59e7c63d6f984732d0a78e89a81222a"
 os = "freebsd"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "4472fb46a601b1b5dbeb3f3dacede0acf72d3457bd730112defc3c316d86ea7b"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "78081096678b6d00f5fab70e1a37e54165f5b538fe5c1da83de5083434b8043f"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.x86_64-unknown-freebsd.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2678cb81b217becb8e8a858262445aa46b081870"
+git-tree-sha1 = "a7a3684c2dfd6e25d4c0d9d0b4a2070631552eb5"
 os = "windows"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "63602013e11b4535285094a07c522405f068ac58fd6b5d0fe23cbe7a37db5d7c"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "9af03093343900534d78224fc3ddfe45824e127c3735ed1d8990732168da4457"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[SoapyPlutoSDR]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ededd967c40fa54c0413f100d5334e5714891e5b"
+git-tree-sha1 = "70d0ec290c57b347758ca8c3d07673fb6e490931"
 os = "windows"
 
     [[SoapyPlutoSDR.download]]
-    sha256 = "5165df27816c92e446729429307803eff88ffe12eab21fc9a7ca48d6d06938ab"
-    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+0/SoapyPlutoSDR.v0.2.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c4587c40c156e303061a81cc2f3b0a254e24d30030f53684180719571cc49cfa"
+    url = "https://github.com/JuliaBinaryWrappers/SoapyPlutoSDR_jll.jl/releases/download/SoapyPlutoSDR-v0.2.1+1/SoapyPlutoSDR.v0.2.1.x86_64-w64-mingw32-cxx11.tar.gz"

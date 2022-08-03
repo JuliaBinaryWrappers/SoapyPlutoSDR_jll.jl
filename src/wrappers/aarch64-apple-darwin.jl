@@ -3,11 +3,10 @@ export libPlutoSDRSupport
 
 using libiio_jll
 using soapysdr_jll
-using libad9361_iio_jll
 JLLWrappers.@generate_wrapper_header("SoapyPlutoSDR")
 JLLWrappers.@declare_library_product(libPlutoSDRSupport, "libPlutoSDRSupport.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(libiio_jll, soapysdr_jll, libad9361_iio_jll)
+    JLLWrappers.@generate_init_header(libiio_jll, soapysdr_jll)
     JLLWrappers.@init_library_product(
         libPlutoSDRSupport,
         "lib/SoapySDR/modules0.8/libPlutoSDRSupport.dylib",
